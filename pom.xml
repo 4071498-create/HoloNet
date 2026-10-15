@@ -10,4 +10,11 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.holonet.HoloNet</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.7.4</version>
+        </dependency>
+    </dependencies>
 </project>

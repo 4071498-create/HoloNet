@@ -6,11 +6,12 @@ package com.mycompany.holonet;
 
 /**
  *
- * @author prato
+ * @author Pablo Miguel Martínez, Alejandro Parra Carrilero y Jorge Ortigosa Alcántara
  */
 public class HoloNet {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        InicializarTabla.main(args);
+        
     }
 }
