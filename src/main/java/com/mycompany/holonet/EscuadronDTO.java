@@ -16,6 +16,7 @@ import java.util.List;
  * @author Pablo Miguel Martínez, Alejandro Parra Carrilero y Jorge Ortigosa Alcántara
  */
 public class EscuadronDTO {
+    //Hacemos un javaBean como cualquier otro
     private String id;
     private String nombre;
     private String sector;

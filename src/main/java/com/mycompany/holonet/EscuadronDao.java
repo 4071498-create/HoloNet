@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Optional;
 /**
  *
- * @author aleja
+ * @author Pablo Miguel Martínez, Alejandro Parra Carrilero y Jorge Ortigosa Alcántara
  */
 public interface EscuadronDao {
     List<EscuadronDTO> obtenertodos();

@@ -11,7 +11,7 @@ import java.util.Optional;
 
 /**
  *
- * @author aleja
+ * @author Pablo Miguel Martínez, Alejandro Parra Carrilero y Jorge Ortigosa Alcántara
  */
 public class EscuadronDaoImpl implements EscuadronDao {
 
